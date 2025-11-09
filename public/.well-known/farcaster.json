@@ -15,9 +15,9 @@
     "castShareUrl": "https://warpcast.com/~/compose?text=I%20just%20minted%20my%20Wolfplet%20NFT%20on%20Base%20%F0%9F%90%BA%20join%20the%20pack"
   },
   "accountAssociation": {
-    "header": "eyJmaWQiOjI5MTQwOCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDNDQ0JhOGM5NTFDNWExNjA0MTlDOURhNTczRjBlQmYzY2E2YmVBQjcifQ",
-    "payload": "eyJkb21haW4iOiJodHRwczovL3dvbGYtbWluaWFwcC52ZXJjZWwuYXBwLyJ9",
-    "signature": "CT7E9Z5s6V/lI3glUx2Txke9ZK7m6p7wmSTvTEAX8KAgNMOvAOrorGGGB306olI18DoeRZG2jk/iazgsAxqm3Bw="
+    "header": "",
+    "payload": "",
+    "signature": ""
   }
 }
 
