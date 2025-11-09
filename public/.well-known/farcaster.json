@@ -1,0 +1,23 @@
+{
+  "frame": {
+    "name": "Wolfplet NFT",
+    "version": "1",
+    "iconUrl": "https://i.ibb.co/jZ55YTmy/file-0000000082bc72069528222470c249f7.png",
+    "homeUrl": "https://wolf-miniapp.vercel.app/",
+    "imageUrl": "https://i.ibb.co/fGFG1Gz4/ezgif-com-animated-gif-maker.gif",
+    "splashImageUrl": "https://i.ibb.co/jZ55YTmy/file-0000000082bc72069528222470c249f7.png",
+    "splashBackgroundColor": "#0A192F",
+    "webhookUrl": "https://wolf-miniapp.vercel.app/api/webhook",
+    "subtitle": "Join the Wolfplet pack",
+    "description": "Mint your Wolfplet NFT on Base for 0.1 USDC and join the pack",
+    "primaryCategory": "art-creativity",
+    "tags": ["community", "base", "nft", "wolfplet"],
+    "castShareUrl": "https://warpcast.com/~/compose?text=I%20just%20minted%20my%20Wolfplet%20NFT%20on%20Base%20%F0%9F%90%BA%20join%20the%20pack"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI5MTQwOCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDNDQ0JhOGM5NTFDNWExNjA0MTlDOURhNTczRjBlQmYzY2E2YmVBQjcifQ",
+    "payload": "eyJkb21haW4iOiJodHRwczovL3dvbGYtbWluaWFwcC52ZXJjZWwuYXBwLyJ9",
+    "signature": "CT7E9Z5s6V/lI3glUx2Txke9ZK7m6p7wmSTvTEAX8KAgNMOvAOrorGGGB306olI18DoeRZG2jk/iazgsAxqm3Bw="
+  }
+}
+
